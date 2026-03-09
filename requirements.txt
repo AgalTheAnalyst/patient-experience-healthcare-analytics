@@ -6,3 +6,5 @@ Scikit-Learn
 Statsmodels
 Plotly
 Jupyter
+Scipy
+Geopandas
